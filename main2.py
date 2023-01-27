@@ -1,5 +1,5 @@
 class Living_Being:
- 
+ /----
     def __init__(self,x):
         self.x = x
     def breathing(self):
